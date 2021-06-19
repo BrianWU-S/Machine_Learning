@@ -9,8 +9,9 @@ What's more, deep learning is a sub-field of machine learning. Knowing what mach
 1. Standford MachineLearning course (taught by Andrew Ng)
 2. Coursera DeepLearning course (taught by Andrew Ng)
 3. SJTU CS420 Machine Learning course
-4. CS410 Artificial Intelligence course
-5. CSDN machine learning course (taught by Shunxiang Liu)
+4. SJTU CS410 Artificial Intelligence course
+5. SJTU CS485 Reinforcement Learning course
+6. CSDN machine learning course (taught by Shunxiang Liu)
 
 The machine learning-related books I have read include:
 * Professor Zhou Zhihua’s "machine learning book" (watermelon book)
