@@ -19,4 +19,4 @@ The machine learning-related books I have read include:
 * Francois Chollet's "Deep Learning with Python"
 * Zhuge Yue's "The Quest for Machine Learning" (Hulu book)
 
-They are all very helpful to me.  The machine learning related projects (codes and their corresponding description, reports) are also included in this repository. In short, this repository contains a lot of content, and I hope it can be helpful to you.
+They are all very helpful to me.  The machine learning related projects (codes and their corresponding description, reports .etc) are also included in this repository. In short, this repository contains a lot of content, and I hope it can be helpful to you.
